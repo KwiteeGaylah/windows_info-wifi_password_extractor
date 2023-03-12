@@ -17,8 +17,7 @@ python win_extract.py
 
 # GMAIL SMTP Setting
 The password to use in the "email_password" is not your actual gmail password. you need to create App Password in your Google account setting and use that password instead.
-Read google blog for more info: https://support.google.com/accounts/answer/185833?visit_id=638142470387740913-1545928851&p=InvalidSecondFactor&rd=1
-
+[Read google blog for more info:](https://support.google.com/accounts/answer/185833?visit_id=638142470387740913-1545928851&p=InvalidSecondFactor&rd=1)
 ```
 python stealer.py
 ```
