@@ -26,3 +26,4 @@ python stealer.py
 ```
 pyinstaller --onefile stealer.py
 ```
+This is an extended version of [hmaverickadams Windows-WiFi-Extractor](https://github.com/hmaverickadams/Windows-WiFi-Extractor)
