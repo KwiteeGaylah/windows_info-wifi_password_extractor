@@ -1,0 +1,8 @@
+altgraph
+future
+pefile
+pyinstaller
+pyinstaller-hooks-contrib
+pywin32-ctypes
+requests
+urllib3
